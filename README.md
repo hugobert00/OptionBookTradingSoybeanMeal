@@ -125,7 +125,7 @@ The app will open at `http://localhost:8501` in your browser.
 
 ## Disclaimer
 
-This project is an academic and personal portfolio project. The datasets included are **entirely fictional and anonymized** — no real client, account, or trade data is present in this repository. The tool is designed for educational and demonstration purposes.
+The datasets included are **entirely fictional and anonymized** — no real client, account, or trade data is present in this repository. The tool is designed demonstration purpose.
 
 ---
 
